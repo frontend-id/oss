@@ -6,7 +6,7 @@
 
 Baca deskripsi ini dalam bahasa lain:
 
-- [English](./README.md)
+- [🇬🇧 English](./README.md)
 
 
 ## 🆘 Isu yang Perlu Bantuan

@@ -6,7 +6,7 @@
 
 Read this description in another languages:
 
-- [Indonesian](./README-ID.md)
+- [🇮🇩 Indonesian](./README-ID.md)
 
 ## 🆘 Issue that Need Help
 
