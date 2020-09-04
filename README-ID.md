@@ -44,7 +44,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 - [Blog 3.0](https://github.com/mazipan/blog-3.0) oleh [Irfan Maulana](https://github.com/mazipan) - React, Gatsby
 - [Griko Nibras](https://github.com/grikomsn/griko.id) oleh [Griko Nibras](https://github.com/grikomsn) - React, Next.js
 - [Nusendra's blog](https://github.com/nusendra/blog) oleh [Nusendra](https://github.com/nusendra) - Svelte, Sapper
-- [resir014.xys](https://github.com/resir014/resir014.xyz) oleh [Resi Respati](https://github.com/resir014) - React, Gatsby
+- [resir014.xyz](https://github.com/resir014/resir014.xyz) oleh [Resi Respati](https://github.com/resir014) - React, Gatsby
 - [zainfathoni.com](https://github.com/zainfathoni/www.zainfathoni.com) oleh [Zain Fathoni](https://github.com/zainfathoni) - React, Gatsby
 
 ### Komponen Antarmuka
