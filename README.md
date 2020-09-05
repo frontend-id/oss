@@ -37,6 +37,9 @@ please sort it in ascending order.
 
 - [Buku Saku Pramuka](https://github.com/mazipan/buku-saku-pramuka) by [Irfan Maulana](https://github.com/mazipan) - A web version of scout pocket book - Next.js, Scout
 
+### Website
+
+- [kawalcovid19.id website](https://gitlab.com/kawalcovid19/website/kawalcovid19.id/) by [KawalCOVID19 community](https://gitlab.com/kawalcovid19) - React, Next.js, WordPress
 
 ### Blog
 
