@@ -6,7 +6,7 @@
 
 Baca deskripsi ini dalam bahasa lain:
 
-- [English](./README.md)
+- [🇬🇧 English](./README.md)
 
 
 ## 🆘 Isu yang Perlu Bantuan
@@ -26,20 +26,39 @@ Anda dapat menambahkan proyek sumber terbuka Anda dengan format:
 - [nama proyek](pranala repositori proyek) oleh [nama pembuat](pranala profil pembuat) - deskripsi - kata kunci
 ```
 
+khusus untuk proyek sumber terbuka berjenis Blog, formatnya seperti berikut:
+
+```markdown
+- [nama blog](pranala repositori proyek) oleh [nama pembuat](pranala profil pembuat) - kata kunci
+```
+
 mohon untuk mengurutkannya secara alfabetis naik.
 
 ### Aplikasi
 
 - [Buku Saku Pramuka](https://github.com/mazipan/buku-saku-pramuka) oleh [Irfan Maulana](https://github.com/mazipan) - Buku saku pramuka dalam versi web - Next.js, Pramuka
 
+### Blog
+
+- [adibfirman.github.io](https://github.com/adibfirman/adibfirman.github.io) oleh [Adib Firman](https://github.com/adibfirman) - React, Gatsby
+- [Blog 3.0](https://github.com/mazipan/blog-3.0) oleh [Irfan Maulana](https://github.com/mazipan) - React, Gatsby
+- [Griko Nibras](https://github.com/grikomsn/griko.id) oleh [Griko Nibras](https://github.com/grikomsn) - React, Next.js
+- [Nusendra's blog](https://github.com/nusendra/blog) oleh [Nusendra](https://github.com/nusendra) - Svelte, Sapper
+- [resir014.xyz](https://github.com/resir014/resir014.xyz) oleh [Resi Respati](https://github.com/resir014) - React, Gatsby
+- [zainfathoni.com](https://github.com/zainfathoni/www.zainfathoni.com) oleh [Zain Fathoni](https://github.com/zainfathoni) - React, Gatsby
+
 ### Komponen Antarmuka
 
 - [React Datepicker Component](https://github.com/adibfirman/react-datepicker) oleh [Adib Firman](https://github.com/adibfirman) - Sebuah _datepicker_ mengagumkan untuk aplikasi React Anda, dibangun dengan _Framer Motion_ - React, _Datepicker_
+- [React Web Monetization UI](https://github.com/ekafyi/react-web-monetization-ui) oleh [Eka](https://github.com/ekafyi) - Komponen antarmuka yang berguna untuk API Web Monetization pada React - React, Monetization
+
+### Bahasa Pemrograman
+
+- [Naskah](https://github.com/pveyes/naskah) oleh [Fatih Kalifa](https://github.com/pveyes) - Bahasa pemrograman dengan sintaks Bahasa Indonesia - JavaScript, Rust
 
 ### Proyek Awalan
 
-// TODO: Tambahkan konten
-
+- [JungleJS + Storybook + TailwindCSS Starter Site](https://github.com/ekafyi/junglejs-storybook-tailwind) oleh [Eka](https://github.com/ekafyi) - Proyek awalan untuk JungleJS + Storybook + TailwindCSS - Svelte, JungleJS, Storybook, TailwindCSS
 
 ### Utilitas
 

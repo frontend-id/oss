@@ -6,7 +6,7 @@
 
 Read this description in another languages:
 
-- [Indonesian](./README-ID.md)
+- [🇮🇩 Indonesian](./README-ID.md)
 
 ## 🆘 Issue that Need Help
 
@@ -22,7 +22,13 @@ Read this description in another languages:
 You can add your own open source project using the following format:
 
 ```markdown
-- [name](repository link) oleh [creator](profile link) - description - keyword
+- [name](repository link) by [creator](profile link) - description - keyword
+```
+
+specifically for open source blog type projects, the format is:
+
+```markdown
+- [name](repository link) by [creator](profile link) -  keyword
 ```
 
 please sort it in ascending order.
@@ -31,15 +37,28 @@ please sort it in ascending order.
 
 - [Buku Saku Pramuka](https://github.com/mazipan/buku-saku-pramuka) by [Irfan Maulana](https://github.com/mazipan) - A web version of scout pocket book - Next.js, Scout
 
+
+### Blog
+
+- [adibfirman.github.io](https://github.com/adibfirman/adibfirman.github.io) by [Adib Firman](https://github.com/adibfirman) - React, Gatsby
+- [Blog 3.0](https://github.com/mazipan/blog-3.0) by [Irfan Maulana](https://github.com/mazipan) - React, Gatsby
+- [Griko Nibras](https://github.com/grikomsn/griko.id) by [Griko Nibras](https://github.com/grikomsn) - React, Next.js
+- [Nusendra's blog](https://github.com/nusendra/blog) by [Nusendra](https://github.com/nusendra) - Svelte, Sapper
+- [resir014.xyz](https://github.com/resir014/resir014.xyz) by [Resi Respati](https://github.com/resir014) - React, Gatsby
+- [zainfathoni.com](https://github.com/zainfathoni/www.zainfathoni.com) by [Zain Fathoni](https://github.com/zainfathoni) - React, Gatsby
+
 ### UI Component
 
 - [React Datepicker Component](https://github.com/adibfirman/react-datepicker) by [Adib Firman](https://github.com/adibfirman) - An awesome Datepicker for your React APP, built in with Framer Motion - React, Datepicker
+- [React Web Monetization UI](https://github.com/ekafyi/react-web-monetization-ui) by [Eka](https://github.com/ekafyi) - Handy UI components to use with the Web Monetization API in React - React, Monetization
 
+### Programming Language
+
+- [Naskah](https://github.com/pveyes/naskah) by [Fatih Kalifa](https://github.com/pveyes) - Programming language with Indonesian syntax - JavaScript, Rust
 
 ### Starter Project
 
-// TODO: Add content
-
+- [JungleJS + Storybook + TailwindCSS Starter Site](https://github.com/ekafyi/junglejs-storybook-tailwind) by [Eka](https://github.com/ekafyi) - Starter site for JungleJS + Storybook + TailwindCSS - Svelte, JungleJS, Storybook, TailwindCSS
 
 ### Utility
 
