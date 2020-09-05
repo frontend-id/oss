@@ -54,6 +54,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 
 - [React Datepicker Component](https://github.com/adibfirman/react-datepicker) oleh [Adib Firman](https://github.com/adibfirman) - Sebuah _datepicker_ mengagumkan untuk aplikasi React Anda, dibangun dengan _Framer Motion_ - React, _Datepicker_
 - [React Web Monetization UI](https://github.com/ekafyi/react-web-monetization-ui) oleh [Eka](https://github.com/ekafyi) - Komponen antarmuka yang berguna untuk API Web Monetization pada React - React, Monetization
+- [Vue Scheduler](https://github.com/burhanahmeed/vue-daily-schedule) oleh [Burhan](https://github.com/burhanahmeed) - Sebuah komponen penjadwalan harian yang mudah untuk VueJS / NuxtJS - Vue, Scheduler
 
 ### Bahasa Pemrograman
 

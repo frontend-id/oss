@@ -54,6 +54,7 @@ please sort it in ascending order.
 
 - [React Datepicker Component](https://github.com/adibfirman/react-datepicker) by [Adib Firman](https://github.com/adibfirman) - An awesome Datepicker for your React APP, built in with Framer Motion - React, Datepicker
 - [React Web Monetization UI](https://github.com/ekafyi/react-web-monetization-ui) by [Eka](https://github.com/ekafyi) - Handy UI components to use with the Web Monetization API in React - React, Monetization
+- [Vue Scheduler](https://github.com/burhanahmeed/vue-daily-schedule) by [Burhan](https://github.com/burhanahmeed) - A straightforward daily scheduler component for VueJS / NuxtJS - Vue, Scheduler
 
 ### Programming Language
 
