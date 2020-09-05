@@ -8,7 +8,6 @@ Baca deskripsi ini dalam bahasa lain:
 
 - [🇬🇧 English](./README.md)
 
-
 ## 🆘 Isu yang Perlu Bantuan
 
 ### i18n/l10n
@@ -37,6 +36,10 @@ mohon untuk mengurutkannya secara alfabetis naik.
 ### Aplikasi
 
 - [Buku Saku Pramuka](https://github.com/mazipan/buku-saku-pramuka) oleh [Irfan Maulana](https://github.com/mazipan) - Buku saku pramuka dalam versi web - Next.js, Pramuka
+
+### Situs web
+
+- [Situs web kawalcovid19.id](https://gitlab.com/kawalcovid19/website/kawalcovid19.id/) oleh [komunitas KawalCOVID19](https://gitlab.com/kawalcovid19) - React, Next.js, WordPress
 
 ### Blog
 
