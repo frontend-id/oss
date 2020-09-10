@@ -43,7 +43,7 @@ please sort it in ascending order.
 
 ### Blog
 
-- [andriawan.com](https://github.com/andriawan/andriawan.com) oleh [Muhammad Irwan Andriawan](https://github.com/andriawan) - React, Gatsby
+- [andriawan.com](https://github.com/andriawan/andriawan.com) by [Muhammad Irwan Andriawan](https://github.com/andriawan) - React, Gatsby
 - [adibfirman.github.io](https://github.com/adibfirman/adibfirman.github.io) by [Adib Firman](https://github.com/adibfirman) - React, Gatsby
 - [Blog 3.0](https://github.com/mazipan/blog-3.0) by [Irfan Maulana](https://github.com/mazipan) - React, Gatsby
 - [Griko Nibras](https://github.com/grikomsn/griko.id) by [Griko Nibras](https://github.com/grikomsn) - React, Next.js
