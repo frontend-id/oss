@@ -16,7 +16,7 @@ Read this description in another languages:
 - Nuxt.js - https://github.com/nuxt/nuxtjs.org/issues/549
 - React - https://github.com/reactjs/id.reactjs.org
 - Svelte - https://github.com/svelteid/svelte3-translation-id
-- <div style="display:inline">Javascript.info - <a href="https://github.com/javascript-tutorial/id.javascript.info">https://github.com/javascript-tutorial/id.javascript.info</a></div>
+- Javascript.info - https://github.com/javascript-tutorial/id.javascript.info
 
 ## Open Source Project
 
