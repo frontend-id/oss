@@ -16,6 +16,7 @@ Baca deskripsi ini dalam bahasa lain:
 - Nuxt.js - https://github.com/nuxt/nuxtjs.org/issues/549
 - React - https://github.com/reactjs/id.reactjs.org
 - Svelte - https://github.com/svelteid/svelte3-translation-id
+- Javascript.info - https://github.com/javascript-tutorial/id.javascript.info
 
 ## Proyek Sumber Terbuka
 
