@@ -52,6 +52,7 @@ please sort it in ascending order.
 - [Nusendra's blog](https://github.com/nusendra/blog) by [Nusendra](https://github.com/nusendra) - Svelte, Sapper
 - [resir014.xyz](https://github.com/resir014/resir014.xyz) by [Resi Respati](https://github.com/resir014) - React, Gatsby
 - [zainfathoni.com](https://github.com/zainfathoni/www.zainfathoni.com) by [Zain Fathoni](https://github.com/zainfathoni) - React, Gatsby
+- [sonnylab.com](https://github.com/sonnylazuardi/sonnylab.com) by [Sonny Lazuardi](https://github.com/sonnylazuardi) - React, Gatsby, Framer Motion
 
 ### UI Component
 
