@@ -51,6 +51,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 - [Griko Nibras](https://github.com/grikomsn/griko.id) oleh [Griko Nibras](https://github.com/grikomsn) - React, Next.js
 - [Nusendra's blog](https://github.com/nusendra/blog) oleh [Nusendra](https://github.com/nusendra) - Svelte, Sapper
 - [resir014.xyz](https://github.com/resir014/resir014.xyz) oleh [Resi Respati](https://github.com/resir014) - React, Gatsby
+- [sonnylab.com](https://github.com/sonnylazuardi/sonnylab.com) oleh [Sonny Lazuardi](https://github.com/sonnylazuardi) - React, Gatsby, Framer Motion
 - [zainfathoni.com](https://github.com/zainfathoni/www.zainfathoni.com) oleh [Zain Fathoni](https://github.com/zainfathoni) - React, Gatsby
 
 ### Komponen Antarmuka
@@ -71,6 +72,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 
 ### Utilitas
 
+- [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) oleh [Sonny Lazuardi](https://github.com/sonnylazuardi) - Aplikasi sederhana untuk menyalin warna dari dunia nyata ke peramban, plugin figma atau sketch
 - [htmr](https://github.com/pveyes/htmr) oleh [Fatih Kalifa](https://github.com/pveyes/htmr) - Pustaka konversi string HTML ke elemen React yang sederhana dan ringan (< 2kB) - React
 - [use-less](https://github.com/pveyes/use-less) oleh [Fatih Kalifa](https://github.com/pveyes) - React Hooks yang membantu Anda mengerjakan apa yang telah Anda kerjakan, dengan lebih banyak abstraksi (_indirection_) - React, Hooks
 - [Nuxt Storage](https://github.com/mazipan/nuxt-storage) oleh [Irfan Maulana](https://github.com/mazipan) - Utilitas yang memudahkan pembacaan dan penulisan ke penyimpanan peramban di proyek Nuxt.js - Nuxt, Penyimpanan Peramban
