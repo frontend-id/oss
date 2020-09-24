@@ -72,9 +72,9 @@ mohon untuk mengurutkannya secara alfabetis naik.
 ### Utilitas
 
 - [htmr](https://github.com/pveyes/htmr) oleh [Fatih Kalifa](https://github.com/pveyes/htmr) - Pustaka konversi string HTML ke elemen React yang sederhana dan ringan (< 2kB) - React
+- [Nama Gadungan](https://github.com/rizafahmi/nama-gadungan) oleh [Riza Fahmi](https://github.com/rizafahmi) - Pustaka kecil yang dapat membantu kamu untuk mendapatkan nama acak untuk data gadungan atau data _dummy_ yang dapat digunakan untuk aplikasi dan database. Pustaka ini bertujuan untuk eksperimen bagi yang ingin belajar berkontribusi ke proyek opensource.
 - [use-less](https://github.com/pveyes/use-less) oleh [Fatih Kalifa](https://github.com/pveyes) - React Hooks yang membantu Anda mengerjakan apa yang telah Anda kerjakan, dengan lebih banyak abstraksi (_indirection_) - React, Hooks
 - [Nuxt Storage](https://github.com/mazipan/nuxt-storage) oleh [Irfan Maulana](https://github.com/mazipan) - Utilitas yang memudahkan pembacaan dan penulisan ke penyimpanan peramban di proyek Nuxt.js - Nuxt, Penyimpanan Peramban
 - [React Lazy Viewport](https://github.com/adibfirman/react-lazy-viewport) pleh [Adib Firman](https://github.com/adibfirman) - Muat komponen React Anda berdasarkan _viewport_ peramban - React, _Intersection Observer_, _Viewport_
 - [tempe](https://github.com/masbagal/tempe) oleh [Dimitrij Agal](https://github.com/masbagal) - Utilitas super ringan untuk format penanggalan di Javascript - i18n
 - [Vue Currency Filter](https://github.com/mazipan/vue-currency-filter) oleh [Irfan Maulana](https://github.com/mazipan) - Filter mata uang Vue yang ringan berdasarkan accounting.js - Vue, Mata Uang, Akutansi
-- [Nama Gadungan](https://github.com/rizafahmi/nama-gadungan) oleh [Riza Fahmi](https://github.com/rizafahmi) - Pustaka kecil yang dapat membantu kamu untuk mendapatkan nama acak untuk data gadungan atau data _dummy_ yang dapat digunakan untuk aplikasi dan database. Pustaka ini bertujuan untuk eksperimen bagi yang ingin belajar berkontribusi ke proyek opensource.
