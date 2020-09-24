@@ -51,8 +51,8 @@ please sort it in ascending order.
 - [Griko Nibras](https://github.com/grikomsn/griko.id) by [Griko Nibras](https://github.com/grikomsn) - React, Next.js
 - [Nusendra's blog](https://github.com/nusendra/blog) by [Nusendra](https://github.com/nusendra) - Svelte, Sapper
 - [resir014.xyz](https://github.com/resir014/resir014.xyz) by [Resi Respati](https://github.com/resir014) - React, Gatsby
-- [zainfathoni.com](https://github.com/zainfathoni/www.zainfathoni.com) by [Zain Fathoni](https://github.com/zainfathoni) - React, Gatsby
 - [sonnylab.com](https://github.com/sonnylazuardi/sonnylab.com) by [Sonny Lazuardi](https://github.com/sonnylazuardi) - React, Gatsby, Framer Motion
+- [zainfathoni.com](https://github.com/zainfathoni/www.zainfathoni.com) by [Zain Fathoni](https://github.com/zainfathoni) - React, Gatsby
 
 ### UI Component
 
@@ -72,10 +72,11 @@ please sort it in ascending order.
 
 ### Utility
 
+- [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) by [Sonny Lazuardi](https://github.com/sonnylazuardi) - Copy color from real world paste it on your browser, figma or sketch plugin
 - [htmr](https://github.com/pveyes/htmr) by [Fatih Kalifa](https://github.com/pveyes/htmr) - Simple and lightweight (< 2kB) HTML string to react element conversion library - React
 - [use-less](https://github.com/pveyes/use-less) by [Fatih Kalifa](https://github.com/pveyes) - React hooks that help you do what you already did, with more indirection - React, Hooks
 - [Nuxt Storage](https://github.com/mazipan/nuxt-storage) by [Irfan Maulana](https://github.com/mazipan) - Utilities for easy read and write browser's storage in Nuxt.js project - Nuxt, Browser Storage
 - [React Lazy Viewport](https://github.com/adibfirman/react-lazy-viewport) by [Adib Firman](https://github.com/adibfirman) - Load your react component based on viewport browser - React, Intersection Observer, Viewport
 - [tempe](https://github.com/masbagal/tempe) by [Dimitrij Agal](https://github.com/masbagal) - Featherlight helper for Javascript date formatting - i18n
 - [Vue Currency Filter](https://github.com/mazipan/vue-currency-filter) by [Irfan Maulana](https://github.com/mazipan) - Lightweight vue currency filter based on accounting.js - Vue, Currency, Accounting
-- [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) by [Sonny Lazuardi](https://github.com/sonnylazuardi) - Copy color from real world paste it on your browser, figma or sketch plugin
+
