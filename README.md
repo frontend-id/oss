@@ -72,8 +72,8 @@ please sort it in ascending order.
 ### Utility
 
 - [htmr](https://github.com/pveyes/htmr) by [Fatih Kalifa](https://github.com/pveyes/htmr) - Simple and lightweight (< 2kB) HTML string to react element conversion library - React
-- [use-less](https://github.com/pveyes/use-less) by [Fatih Kalifa](https://github.com/pveyes) - React hooks that help you do what you already did, with more indirection - React, Hooks
 - [Nuxt Storage](https://github.com/mazipan/nuxt-storage) by [Irfan Maulana](https://github.com/mazipan) - Utilities for easy read and write browser's storage in Nuxt.js project - Nuxt, Browser Storage
+- [raw.macro](https://github.com/pveyes/raw.macro) by [Fatih Kalifa](https://github.com/pveyes) - Read file contents at build time via babel-plugin-macros - Babel
 - [React Lazy Viewport](https://github.com/adibfirman/react-lazy-viewport) by [Adib Firman](https://github.com/adibfirman) - Load your react component based on viewport browser - React, Intersection Observer, Viewport
 - [tempe](https://github.com/masbagal/tempe) by [Dimitrij Agal](https://github.com/masbagal) - Featherlight helper for Javascript date formatting - i18n
 - [Vue Currency Filter](https://github.com/mazipan/vue-currency-filter) by [Irfan Maulana](https://github.com/mazipan) - Lightweight vue currency filter based on accounting.js - Vue, Currency, Accounting
