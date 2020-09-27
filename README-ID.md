@@ -49,6 +49,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 - [adibfirman.github.io](https://github.com/adibfirman/adibfirman.github.io) oleh [Adib Firman](https://github.com/adibfirman) - React, Gatsby
 - [Blog 3.0](https://github.com/mazipan/blog-3.0) oleh [Irfan Maulana](https://github.com/mazipan) - React, Gatsby
 - [Griko Nibras](https://github.com/grikomsn/griko.id) oleh [Griko Nibras](https://github.com/grikomsn) - React, Next.js
+- [iyansr.id](https://github.com/iyansr/iyansr.id-reborn) by [Iyan Saputra](https://github.com/iyansr) - React, Next.js, Framer Motion, Strapi
 - [Nusendra's blog](https://github.com/nusendra/blog) oleh [Nusendra](https://github.com/nusendra) - Svelte, Sapper
 - [resir014.xyz](https://github.com/resir014/resir014.xyz) oleh [Resi Respati](https://github.com/resir014) - React, Gatsby
 - [sonnylab.com](https://github.com/sonnylazuardi/sonnylab.com) oleh [Sonny Lazuardi](https://github.com/sonnylazuardi) - React, Gatsby, Framer Motion
