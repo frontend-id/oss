@@ -42,6 +42,7 @@ please sort it in ascending order.
 
 - [kabarvirus.com website](https://github.com/ariya/kabarvirus) by [Ariya Hidayat](https://github.com/ariya) - vanilla
 - [kawalcovid19.id website](https://gitlab.com/kawalcovid19/website/kawalcovid19.id/) by [KawalCOVID19 community](https://gitlab.com/kawalcovid19) - React, Next.js, WordPress
+- [indonesia-covid19.surge.sh website](https://github.com/MochIsrin068/indonesia-covid19-info) by [Muhammad Isrin](https://github.com/MochIsrin068) - React
 
 ### Blog
 
