@@ -40,6 +40,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 
 ### Situs web
 
+- [Situs wev indonesia-covid19.surge.sh](https://github.com/MochIsrin068/indonesia-covid19-info) oleh [Muhammad Isrin](https://github.com/MochIsrin068) - React
 - [Situs web kabarvirus.com](https://github.com/ariya/kabarvirus) oleh [Ariya Hidayat](https://github.com/ariya) - vanilla
 - [Situs web kawalcovid19.id](https://gitlab.com/kawalcovid19/website/kawalcovid19.id/) oleh [komunitas KawalCOVID19](https://gitlab.com/kawalcovid19) - React, Next.js, WordPress
 
