@@ -70,6 +70,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 ### Proyek Awalan
 
 - [JungleJS + Storybook + TailwindCSS Starter Site](https://github.com/ekafyi/junglejs-storybook-tailwind) oleh [Eka](https://github.com/ekafyi) - Proyek awalan untuk JungleJS + Storybook + TailwindCSS - Svelte, JungleJS, Storybook, TailwindCSS
+- [Preact + Typescript + Parcel](https://github.com/ywnn/preact-typescript-parcel) by [Y.H. Nugroho](https://github.com/ywnn) - Proyek awalan untuk Preact + Typescript + ParcelJS - Preact, Typescript
 - [Vredeburg](https://github.com/dafiulh/vredeburg) oleh [Dafiul Haq](https://github.com/dafiulh) - Proyek awalan sederhana untuk membuat blog menggunakan Eleventy dan Tailwind CSS - Eleventy, TailwindCSS
 
 ### Utilitas
