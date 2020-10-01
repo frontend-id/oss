@@ -38,6 +38,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 
 - [Buku Saku Pramuka](https://github.com/mazipan/buku-saku-pramuka) oleh [Irfan Maulana](https://github.com/mazipan) - Buku saku pramuka dalam versi web - Next.js, Pramuka
 - [pm2-panel](https://github.com/pedox/pm2-panel) oleh [pedox](https://github.com/pedox) - Panel monitoring sederhana untuk pm2 dibuat dengan React dan Next.js - React, Next.js
+- [Sekolahku-ID](https://github.com/satyawikananda/Sekolahku-ID/) oleh [Satya Wikananda](https://github.com/satyawikananda) - Sebuah aplikasi pencari sekolah yang ada di Indonesia - Vue.js, Vuetify, Sekolah
 
 ### Situs web
 
