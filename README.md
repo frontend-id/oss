@@ -70,7 +70,7 @@ please sort it in ascending order.
 ### Starter Project
 
 - [JungleJS + Storybook + TailwindCSS Starter Site](https://github.com/ekafyi/junglejs-storybook-tailwind) by [Eka](https://github.com/ekafyi) - Starter site for JungleJS + Storybook + TailwindCSS - Svelte, JungleJS, Storybook, TailwindCSS
-- [Preact + Typescript + Parcel](https://github.com/ywnn/preact-typescript-parcel) by [Y.H. Nugroho](https://github.com/ywnn) - A simple starter site for Preact + Typescript + ParcelJS - Preact, Typescript.
+- [Preact + Typescript + Parcel](https://github.com/ywnn/preact-typescript-parcel) by [Y.H. Nugroho](https://github.com/ywnn) - A simple starter site for Preact + Typescript + ParcelJS - Preact, Typescript, ParcelJS
 - [Vredeburg](https://github.com/dafiulh/vredeburg) by [Dafiul Haq](https://github.com/dafiulh) - A simple starter project to create a blog using Eleventy and Tailwind CSS - Eleventy, TailwindCSS
 
 ### Utility
