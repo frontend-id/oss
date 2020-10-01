@@ -37,6 +37,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 ### Aplikasi
 
 - [Buku Saku Pramuka](https://github.com/mazipan/buku-saku-pramuka) oleh [Irfan Maulana](https://github.com/mazipan) - Buku saku pramuka dalam versi web - Next.js, Pramuka
+- [pm2-panel](https://github.com/pedox/pm2-panel) by [pedox](https://github.com/pedox) - Panel monitoring sederhana untuk pm2 dibuat dengan React dan Next.js - React, Next.js
 
 ### Situs web
 
@@ -83,3 +84,4 @@ mohon untuk mengurutkannya secara alfabetis naik.
 - [React Lazy Viewport](https://github.com/adibfirman/react-lazy-viewport) pleh [Adib Firman](https://github.com/adibfirman) - Muat komponen React Anda berdasarkan _viewport_ peramban - React, _Intersection Observer_, _Viewport_
 - [tempe](https://github.com/masbagal/tempe) oleh [Dimitrij Agal](https://github.com/masbagal) - Utilitas super ringan untuk format penanggalan di Javascript - i18n
 - [Vue Currency Filter](https://github.com/mazipan/vue-currency-filter) oleh [Irfan Maulana](https://github.com/mazipan) - Filter mata uang Vue yang ringan berdasarkan accounting.js - Vue, Mata Uang, Akutansi
+- [formstrap](https://github.com/pedox/formstrap) by [pedox](https://github.com/pedox) - Integrasi komponen Input Reactstrap dengan utilitas Formik secara mudah - React, Formik, Reactstrap
