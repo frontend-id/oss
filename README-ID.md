@@ -37,6 +37,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 ### Aplikasi
 
 - [Buku Saku Pramuka](https://github.com/mazipan/buku-saku-pramuka) oleh [Irfan Maulana](https://github.com/mazipan) - Buku saku pramuka dalam versi web - Next.js, Pramuka
+- [pm2-panel](https://github.com/pedox/pm2-panel) by [pedox](https://github.com/pedox) - Panel monitoring sederhana untuk pm2 dibuat dengan React dan Next.js - React, Next.js
 
 ### Situs web
 
@@ -75,6 +76,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 ### Utilitas
 
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) oleh [Sonny Lazuardi](https://github.com/sonnylazuardi) - Aplikasi sederhana untuk menyalin warna dari dunia nyata ke peramban, plugin figma atau sketch
+- [formstrap](https://github.com/pedox/formstrap) by [pedox](https://github.com/pedox) - Integrasi komponen Input Reactstrap dengan utilitas Formik secara mudah - React, Formik, Reactstrap
 - [html-form-generator](https://github.com/ywnn/html-form-generator) by [Y.H. Nugroho](https://github.com/ywnn) - Generator Form HTML sederahana mengunakan baris terminal.
 - [htmr](https://github.com/pveyes/htmr) oleh [Fatih Kalifa](https://github.com/pveyes/htmr) - Pustaka konversi string HTML ke elemen React yang sederhana dan ringan (< 2kB) - React
 - [Nama Gadungan](https://github.com/rizafahmi/nama-gadungan) oleh [Riza Fahmi](https://github.com/rizafahmi) - Pustaka kecil yang dapat membantu kamu untuk mendapatkan nama acak untuk data gadungan atau data _dummy_ yang dapat digunakan untuk aplikasi dan database. Pustaka ini bertujuan untuk eksperimen bagi yang ingin belajar berkontribusi ke proyek opensource.
