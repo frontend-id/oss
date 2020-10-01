@@ -43,7 +43,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 - [Situs web indonesia-covid19.surge.sh](https://github.com/MochIsrin068/indonesia-covid19-info) oleh [Muhammad Isrin](https://github.com/MochIsrin068) - React
 - [Situs web kabarvirus.com](https://github.com/ariya/kabarvirus) oleh [Ariya Hidayat](https://github.com/ariya) - vanilla
 - [Situs web kawalcovid19.id](https://gitlab.com/kawalcovid19/website/kawalcovid19.id/) oleh [komunitas KawalCOVID19](https://gitlab.com/kawalcovid19) - React, Next.js, WordPress
-
+- [Nongskuy](https://github.com/sofyanmoch/nongskuy) oleh [sofyanmoch](https://gitlab.com/kawalcovid19) - Vue Js, Vuex
 ### Blog
 
 - [andriawan.com](https://github.com/andriawan/andriawan.com) oleh [Muhammad Irwan Andriawan](https://github.com/andriawan) - React, Gatsby
