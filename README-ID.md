@@ -70,17 +70,17 @@ mohon untuk mengurutkannya secara alfabetis naik.
 ### Proyek Awalan
 
 - [JungleJS + Storybook + TailwindCSS Starter Site](https://github.com/ekafyi/junglejs-storybook-tailwind) oleh [Eka](https://github.com/ekafyi) - Proyek awalan untuk JungleJS + Storybook + TailwindCSS - Svelte, JungleJS, Storybook, TailwindCSS
-- [Preact + Typescript + Parcel](https://github.com/ywnn/preact-typescript-parcel) by [Y.H. Nugroho](https://github.com/ywnn) - Proyek awalan untuk Preact + Typescript + ParcelJS - Preact, Typescript
+- [Preact + Typescript + Parcel](https://github.com/ywnn/preact-typescript-parcel) oleh [Y.H. Nugroho](https://github.com/ywnn) - Proyek awalan untuk Preact + Typescript + ParcelJS - Preact, Typescript, ParcelJS
 - [Vredeburg](https://github.com/dafiulh/vredeburg) oleh [Dafiul Haq](https://github.com/dafiulh) - Proyek awalan sederhana untuk membuat blog menggunakan Eleventy dan Tailwind CSS - Eleventy, TailwindCSS
 
 ### Utilitas
 
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) oleh [Sonny Lazuardi](https://github.com/sonnylazuardi) - Aplikasi sederhana untuk menyalin warna dari dunia nyata ke peramban, plugin figma atau sketch
-- [html-form-generator](https://github.com/ywnn/html-form-generator) by [Y.H. Nugroho](https://github.com/ywnn) - Generator Form HTML sederahana mengunakan baris terminal.
+- [html-form-generator](https://github.com/ywnn/html-form-generator) oleh [Y.H. Nugroho](https://github.com/ywnn) - Generator Form HTML sederahana mengunakan baris terminal.
 - [htmr](https://github.com/pveyes/htmr) oleh [Fatih Kalifa](https://github.com/pveyes/htmr) - Pustaka konversi string HTML ke elemen React yang sederhana dan ringan (< 2kB) - React
 - [Nama Gadungan](https://github.com/rizafahmi/nama-gadungan) oleh [Riza Fahmi](https://github.com/rizafahmi) - Pustaka kecil yang dapat membantu kamu untuk mendapatkan nama acak untuk data gadungan atau data _dummy_ yang dapat digunakan untuk aplikasi dan database. Pustaka ini bertujuan untuk eksperimen bagi yang ingin belajar berkontribusi ke proyek opensource.
 - [Nuxt Storage](https://github.com/mazipan/nuxt-storage) oleh [Irfan Maulana](https://github.com/mazipan) - Utilitas yang memudahkan pembacaan dan penulisan ke penyimpanan peramban di proyek Nuxt.js - Nuxt, Penyimpanan Peramban
 - [raw.macro](https://github.com/pveyes/raw.macro) oleh [Fatih Kalifa](https://github.com/pveyes) - Membaca isi file pada waktu _build_ melalui babel-plugin-macros - Babel
-- [React Lazy Viewport](https://github.com/adibfirman/react-lazy-viewport) pleh [Adib Firman](https://github.com/adibfirman) - Muat komponen React Anda berdasarkan _viewport_ peramban - React, _Intersection Observer_, _Viewport_
+- [React Lazy Viewport](https://github.com/adibfirman/react-lazy-viewport) oleh [Adib Firman](https://github.com/adibfirman) - Muat komponen React Anda berdasarkan _viewport_ peramban - React, _Intersection Observer_, _Viewport_
 - [tempe](https://github.com/masbagal/tempe) oleh [Dimitrij Agal](https://github.com/masbagal) - Utilitas super ringan untuk format penanggalan di Javascript - i18n
 - [Vue Currency Filter](https://github.com/mazipan/vue-currency-filter) oleh [Irfan Maulana](https://github.com/mazipan) - Filter mata uang Vue yang ringan berdasarkan accounting.js - Vue, Mata Uang, Akutansi
