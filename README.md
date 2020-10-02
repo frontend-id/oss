@@ -37,6 +37,8 @@ please sort it in ascending order.
 ### App
 
 - [Buku Saku Pramuka](https://github.com/mazipan/buku-saku-pramuka) by [Irfan Maulana](https://github.com/mazipan) - A web version of scout pocket book - Next.js, Scout
+- [pm2-panel](https://github.com/pedox/pm2-panel) by [pedox](https://github.com/pedox) - Simple pm2 monitoring built in React and next.js - React, Next.js
+- [Sekolahku-ID](https://github.com/satyawikananda/Sekolahku-ID/) by [Satya Wikananda](https://github.com/satyawikananda) - A web app to search schools in Indonesia - Vue.js, Vuetify, School
 
 ### Website
 
@@ -76,6 +78,7 @@ please sort it in ascending order.
 ### Utility
 
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) by [Sonny Lazuardi](https://github.com/sonnylazuardi) - Copy color from real world paste it on your browser, figma or sketch plugin
+- [formstrap](https://github.com/pedox/formstrap) by [pedox](https://github.com/pedox) - Integrate Reactstrap input components with Formik utility - React, Formik, Reactstrap
 - [html-form-generator](https://github.com/ywnn/html-form-generator) by [Y.H. Nugroho](https://github.com/ywnn) - Simple HTML form generator on CLI.
 - [htmr](https://github.com/pveyes/htmr) by [Fatih Kalifa](https://github.com/pveyes/htmr) - Simple and lightweight (< 2kB) HTML string to react element conversion library - React
 - [Nama Gadungan](https://github.com/rizafahmi/nama-gadungan) by [Riza Fahmi](https://github.com/rizafahmi) - Tiny library for dummy Indonesia name. This repo is intended for experimentation for everyone who willing to learn to contributing to open source project
@@ -84,4 +87,3 @@ please sort it in ascending order.
 - [React Lazy Viewport](https://github.com/adibfirman/react-lazy-viewport) by [Adib Firman](https://github.com/adibfirman) - Load your react component based on viewport browser - React, Intersection Observer, Viewport
 - [tempe](https://github.com/masbagal/tempe) by [Dimitrij Agal](https://github.com/masbagal) - Featherlight helper for Javascript date formatting - i18n
 - [Vue Currency Filter](https://github.com/mazipan/vue-currency-filter) by [Irfan Maulana](https://github.com/mazipan) - Lightweight vue currency filter based on accounting.js - Vue, Currency, Accounting
-

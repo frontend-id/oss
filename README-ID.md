@@ -37,6 +37,8 @@ mohon untuk mengurutkannya secara alfabetis naik.
 ### Aplikasi
 
 - [Buku Saku Pramuka](https://github.com/mazipan/buku-saku-pramuka) oleh [Irfan Maulana](https://github.com/mazipan) - Buku saku pramuka dalam versi web - Next.js, Pramuka
+- [pm2-panel](https://github.com/pedox/pm2-panel) oleh [pedox](https://github.com/pedox) - Panel monitoring sederhana untuk pm2 dibuat dengan React dan Next.js - React, Next.js
+- [Sekolahku-ID](https://github.com/satyawikananda/Sekolahku-ID/) oleh [Satya Wikananda](https://github.com/satyawikananda) - Sebuah aplikasi pencari sekolah yang ada di Indonesia - Vue.js, Vuetify, Sekolah
 
 ### Situs web
 
@@ -50,7 +52,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 - [adibfirman.github.io](https://github.com/adibfirman/adibfirman.github.io) oleh [Adib Firman](https://github.com/adibfirman) - React, Gatsby
 - [Blog 3.0](https://github.com/mazipan/blog-3.0) oleh [Irfan Maulana](https://github.com/mazipan) - React, Gatsby
 - [Griko Nibras](https://github.com/grikomsn/griko.id) oleh [Griko Nibras](https://github.com/grikomsn) - React, Next.js
-- [iyansr.id](https://github.com/iyansr/iyansr.id-reborn) by [Iyan Saputra](https://github.com/iyansr) - React, Next.js, Framer Motion, Strapi
+- [iyansr.id](https://github.com/iyansr/iyansr.id-reborn) oleh [Iyan Saputra](https://github.com/iyansr) - React, Next.js, Framer Motion, Strapi
 - [Nusendra's blog](https://github.com/nusendra/blog) oleh [Nusendra](https://github.com/nusendra) - Svelte, Sapper
 - [resir014.xyz](https://github.com/resir014/resir014.xyz) oleh [Resi Respati](https://github.com/resir014) - React, Gatsby
 - [sonnylab.com](https://github.com/sonnylazuardi/sonnylab.com) oleh [Sonny Lazuardi](https://github.com/sonnylazuardi) - React, Gatsby, Framer Motion
@@ -76,6 +78,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 ### Utilitas
 
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) oleh [Sonny Lazuardi](https://github.com/sonnylazuardi) - Aplikasi sederhana untuk menyalin warna dari dunia nyata ke peramban, plugin figma atau sketch
+- [formstrap](https://github.com/pedox/formstrap) oleh [pedox](https://github.com/pedox) - Integrasi komponen Input Reactstrap dengan utilitas Formik secara mudah - React, Formik, Reactstrap
 - [html-form-generator](https://github.com/ywnn/html-form-generator) oleh [Y.H. Nugroho](https://github.com/ywnn) - Generator Form HTML sederahana mengunakan baris terminal.
 - [htmr](https://github.com/pveyes/htmr) oleh [Fatih Kalifa](https://github.com/pveyes/htmr) - Pustaka konversi string HTML ke elemen React yang sederhana dan ringan (< 2kB) - React
 - [Nama Gadungan](https://github.com/rizafahmi/nama-gadungan) oleh [Riza Fahmi](https://github.com/rizafahmi) - Pustaka kecil yang dapat membantu kamu untuk mendapatkan nama acak untuk data gadungan atau data _dummy_ yang dapat digunakan untuk aplikasi dan database. Pustaka ini bertujuan untuk eksperimen bagi yang ingin belajar berkontribusi ke proyek opensource.
