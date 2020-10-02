@@ -85,4 +85,4 @@ please sort it in ascending order.
 - [React Lazy Viewport](https://github.com/adibfirman/react-lazy-viewport) by [Adib Firman](https://github.com/adibfirman) - Load your react component based on viewport browser - React, Intersection Observer, Viewport
 - [tempe](https://github.com/masbagal/tempe) by [Dimitrij Agal](https://github.com/masbagal) - Featherlight helper for Javascript date formatting - i18n
 - [Vue Currency Filter](https://github.com/mazipan/vue-currency-filter) by [Irfan Maulana](https://github.com/mazipan) - Lightweight vue currency filter based on accounting.js - Vue, Currency, Accounting
-- [QRious](https://github.com/neocotic/qrious) by [neocotic](https://github.com/neocotic) - Pure JavaScript library for QR code generation using canvas
+- [QRious](https://github.com/neocotic/qrious) by [neocotic](https://github.com/neocotic) - Pure JavaScript library for QR code generation using canvas - qr, qrcode, qrcode-generator, javascript, neocotic qrious
