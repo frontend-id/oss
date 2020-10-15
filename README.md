@@ -54,6 +54,7 @@ please sort it in ascending order.
 - [adibfirman.github.io](https://github.com/adibfirman/adibfirman.github.io) by [Adib Firman](https://github.com/adibfirman) - React, Gatsby
 - [Blog 3.0](https://github.com/mazipan/blog-3.0) by [Irfan Maulana](https://github.com/mazipan) - React, Gatsby
 - [Griko Nibras](https://github.com/grikomsn/griko.id) by [Griko Nibras](https://github.com/grikomsn) - React, Next.js
+- [hanihusam.com](https://github.com/hanihusam/hanihusam.com) by [Hani Husamuddin](https://github.com/hanihusam) - React, Next.js
 - [iyansr.id](https://github.com/iyansr/iyansr.id-reborn) by [Iyan Saputra](https://github.com/iyansr) - React, Next.js, Framer Motion, Strapi
 - [Nusendra's blog](https://github.com/nusendra/blog) by [Nusendra](https://github.com/nusendra) - Svelte, Sapper
 - [resir014.xyz](https://github.com/resir014/resir014.xyz) by [Resi Respati](https://github.com/resir014) - React, Gatsby
