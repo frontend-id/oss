@@ -39,6 +39,7 @@ please sort it in ascending order.
 - [Buku Saku Pramuka](https://github.com/mazipan/buku-saku-pramuka) by [Irfan Maulana](https://github.com/mazipan) - A web version of scout pocket book - Next.js, Scout
 - [pm2-panel](https://github.com/pedox/pm2-panel) by [pedox](https://github.com/pedox) - Simple pm2 monitoring built in React and next.js - React, Next.js
 - [Sekolahku-ID](https://github.com/satyawikananda/Sekolahku-ID/) by [Satya Wikananda](https://github.com/satyawikananda) - A web app to search schools in Indonesia - Vue.js, Vuetify, School
+- [PEWORLD](https://github.com/rizaradiarivaldo/PEWORLD.git) by [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo) - Hiring Application - Vue.js, Vuex, Hiring
 
 ### Website
 
