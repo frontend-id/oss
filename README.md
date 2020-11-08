@@ -17,6 +17,8 @@ Read this description in another languages:
 - React - https://github.com/reactjs/id.reactjs.org
 - Svelte - https://github.com/svelteid/svelte3-translation-id
 - Javascript.info - https://github.com/javascript-tutorial/id.javascript.info
+- Vue.js - https://github.com/vuejs-id/docs-next
+- Swift - https://github.com/supercomputra/BahasaPemrogramanSwift
 
 ## Open Source Project
 
