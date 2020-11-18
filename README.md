@@ -75,15 +75,15 @@ please sort it in ascending order.
 ### Starter Project
 
 - [JungleJS + Storybook + TailwindCSS Starter Site](https://github.com/ekafyi/junglejs-storybook-tailwind) by [Eka](https://github.com/ekafyi) - Starter site for JungleJS + Storybook + TailwindCSS - Svelte, JungleJS, Storybook, TailwindCSS
-- [Preact + Typescript + Parcel](https://github.com/ywnv/preact-typescript-parcel) by [Yoghaswara HN](https://github.com/ywnv) - A simple starter site for Preact + Typescript + ParcelJS - Preact, Typescript, ParcelJS
-- [ReasonReact Parcel Starter](https://github.com/ywnv/reason-react-parcel) by [Yoghaswara HN](https://github.com/ywnv) - Starter project for begin with ReasonReact - ReasonML, React, ParcelJS
+- [Preact + Typescript + Parcel](https://github.com/ywnv/preact-typescript-parcel) by [Adverse Prelude](https://github.com/ywnv) - A simple starter site for Preact + Typescript + ParcelJS - Preact, Typescript, ParcelJS
+- [ReasonReact Parcel Starter](https://github.com/ywnv/reason-react-parcel) by [Adverse Prelude](https://github.com/ywnv) - Starter project for begin with ReasonReact - ReasonML, React, ParcelJS
 - [Vredeburg](https://github.com/dafiulh/vredeburg) by [Dafiul Haq](https://github.com/dafiulh) - A simple starter project to create a blog using Eleventy and Tailwind CSS - Eleventy, TailwindCSS
 
 ### Utility
 
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) by [Sonny Lazuardi](https://github.com/sonnylazuardi) - Copy color from real world paste it on your browser, figma or sketch plugin
 - [formstrap](https://github.com/pedox/formstrap) by [pedox](https://github.com/pedox) - Integrate Reactstrap input components with Formik utility - React, Formik, Reactstrap
-- [html-form-generator](https://github.com/ywnv/html-form-generator) by [Yoghaswara HN](https://github.com/ywnv) - Simple HTML form generator on CLI.
+- [html-form-generator](https://github.com/ywnv/html-form-generator) by [Adverse Prelude](https://github.com/ywnv) - Simple HTML form generator on CLI.
 - [htmr](https://github.com/pveyes/htmr) by [Fatih Kalifa](https://github.com/pveyes/htmr) - Simple and lightweight (< 2kB) HTML string to react element conversion library - React
 - [Nama Gadungan](https://github.com/rizafahmi/nama-gadungan) by [Riza Fahmi](https://github.com/rizafahmi) - Tiny library for dummy Indonesia name. This repo is intended for experimentation for everyone who willing to learn to contributing to open source project
 - [Nuxt Storage](https://github.com/mazipan/nuxt-storage) by [Irfan Maulana](https://github.com/mazipan) - Utilities for easy read and write browser's storage in Nuxt.js project - Nuxt, Browser Storage
