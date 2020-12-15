@@ -77,14 +77,15 @@ mohon untuk mengurutkannya secara alfabetis naik.
 ### Proyek Awalan
 
 - [JungleJS + Storybook + TailwindCSS Starter Site](https://github.com/ekafyi/junglejs-storybook-tailwind) oleh [Eka](https://github.com/ekafyi) - Proyek awalan untuk JungleJS + Storybook + TailwindCSS - Svelte, JungleJS, Storybook, TailwindCSS
-- [Preact + Typescript + Parcel](https://github.com/ywnn/preact-typescript-parcel) oleh [Y.H. Nugroho](https://github.com/ywnn) - Proyek awalan untuk Preact + Typescript + ParcelJS - Preact, Typescript, ParcelJS
+- [Preact + Typescript + Parcel](https://github.com/ywnv/preact-typescript-parcel) oleh [Adverse Prelude](https://github.com/ywnv) - Proyek awalan untuk Preact + Typescript + ParcelJS - Preact, Typescript, ParcelJS
+- [ReasonReact Parcel Starter](https://github.com/ywnv/reason-react-parcel) oleh [Adverse Prelude](https://github.com/ywnv) - Proyek pemulaan web dengan ReasonReact dan ParcelJS - ReasonML, React, ParcelJS
 - [Vredeburg](https://github.com/dafiulh/vredeburg) oleh [Dafiul Haq](https://github.com/dafiulh) - Proyek awalan sederhana untuk membuat blog menggunakan Eleventy dan Tailwind CSS - Eleventy, TailwindCSS
 
 ### Utilitas
 
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) oleh [Sonny Lazuardi](https://github.com/sonnylazuardi) - Aplikasi sederhana untuk menyalin warna dari dunia nyata ke peramban, plugin figma atau sketch
 - [formstrap](https://github.com/pedox/formstrap) oleh [pedox](https://github.com/pedox) - Integrasi komponen Input Reactstrap dengan utilitas Formik secara mudah - React, Formik, Reactstrap
-- [html-form-generator](https://github.com/ywnn/html-form-generator) oleh [Y.H. Nugroho](https://github.com/ywnn) - Generator Form HTML sederahana mengunakan baris terminal.
+- [html-form-generator](https://github.com/ywnn/html-form-generator) oleh [Adverse Prelude](https://github.com/ywnn) - Generator Form HTML sederahana mengunakan baris terminal.
 - [htmr](https://github.com/pveyes/htmr) oleh [Fatih Kalifa](https://github.com/pveyes/htmr) - Pustaka konversi string HTML ke elemen React yang sederhana dan ringan (< 2kB) - React
 - [Nama Gadungan](https://github.com/rizafahmi/nama-gadungan) oleh [Riza Fahmi](https://github.com/rizafahmi) - Pustaka kecil yang dapat membantu kamu untuk mendapatkan nama acak untuk data gadungan atau data _dummy_ yang dapat digunakan untuk aplikasi dan database. Pustaka ini bertujuan untuk eksperimen bagi yang ingin belajar berkontribusi ke proyek opensource.
 - [Nuxt Storage](https://github.com/mazipan/nuxt-storage) oleh [Irfan Maulana](https://github.com/mazipan) - Utilitas yang memudahkan pembacaan dan penulisan ke penyimpanan peramban di proyek Nuxt.js - Nuxt, Penyimpanan Peramban
