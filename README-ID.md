@@ -94,3 +94,4 @@ mohon untuk mengurutkannya secara alfabetis naik.
 - [React Lazy Viewport](https://github.com/adibfirman/react-lazy-viewport) oleh [Adib Firman](https://github.com/adibfirman) - Muat komponen React Anda berdasarkan _viewport_ peramban - React, _Intersection Observer_, _Viewport_
 - [tempe](https://github.com/masbagal/tempe) oleh [Dimitrij Agal](https://github.com/masbagal) - Utilitas super ringan untuk format penanggalan di Javascript - i18n
 - [Vue Currency Filter](https://github.com/mazipan/vue-currency-filter) oleh [Irfan Maulana](https://github.com/mazipan) - Filter mata uang Vue yang ringan berdasarkan accounting.js - Vue, Mata Uang, Akutansi
+- [vscode-css-sort](https://github.com/apriliandi246/vscode-css-sort) by [Farhan Apriliandi](https://github.com/apriliandi246) - Ekstensi vscode untuk mengurutkan properti css Anda, dan membuatnya mudah dibaca - vscode-extension
