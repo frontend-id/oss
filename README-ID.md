@@ -49,6 +49,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 - [Situs web kabarvirus.com](https://github.com/ariya/kabarvirus) oleh [Ariya Hidayat](https://github.com/ariya) - vanilla
 - [Situs web kawalcovid19.id](https://gitlab.com/kawalcovid19/website/kawalcovid19.id/) oleh [komunitas KawalCOVID19](https://gitlab.com/kawalcovid19) - React, Next.js, WordPress
 - [Situs web SEKAI.ID](https://s.sekai.id/git-web) oleh [SEKAI.ID](https://gitlab.com/sekaidotid) Next.js, TypeScript, Contentful, TailwindCSS
+- [Situs web pantaucovidapp.netlify.app](https://github.com/fiqryq/Pantaucovid-Dashboard) oleh [Fiqry choerudin](https://github.com/fiqryq) - Vue.js
 
 ### Blog
 

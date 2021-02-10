@@ -49,6 +49,7 @@ please sort it in ascending order.
 - [kabarvirus.com website](https://github.com/ariya/kabarvirus) by [Ariya Hidayat](https://github.com/ariya) - vanilla
 - [kawalcovid19.id website](https://gitlab.com/kawalcovid19/website/kawalcovid19.id/) by [KawalCOVID19 community](https://gitlab.com/kawalcovid19) - React, Next.js, WordPress
 - [SEKAI.ID Website](https://s.sekai.id/git-web) by [SEKAI.ID](https://gitlab.com/sekaidotid) - Next.js, TailwindCSS
+- [Situs web pantaucovidapp.netlify.app](https://github.com/fiqryq/Pantaucovid-Dashboard) oleh [Fiqry choerudin](https://github.com/fiqryq) - Vue.js
 
 ### Blog
 
