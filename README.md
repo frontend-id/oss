@@ -39,6 +39,7 @@ please sort it in ascending order.
 ### App
 
 - [Buku Saku Pramuka](https://github.com/mazipan/buku-saku-pramuka) by [Irfan Maulana](https://github.com/mazipan) - A web version of scout pocket book - Next.js, Scout
+- [FreedomLife](https://github.com/agallio/freedomlife) by [Agallio Samai](https://github.com/agallio) - Bible reading guide web app - Next.js, Preact, TailwindCSS, Framer Motion
 - [pm2-panel](https://github.com/pedox/pm2-panel) by [pedox](https://github.com/pedox) - Simple pm2 monitoring built in React and next.js - React, Next.js
 - [Sekolahku-ID](https://github.com/satyawikananda/Sekolahku-ID/) by [Satya Wikananda](https://github.com/satyawikananda) - A web app to search schools in Indonesia - Vue.js, Vuetify, School
 
