@@ -68,7 +68,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 
 - [React Datepicker Component](https://github.com/adibfirman/react-datepicker) oleh [Adib Firman](https://github.com/adibfirman) - Sebuah _datepicker_ mengagumkan untuk aplikasi React Anda, dibangun dengan _Framer Motion_ - React, _Datepicker_
 - [React Web Monetization UI](https://github.com/ekafyi/react-web-monetization-ui) oleh [Eka](https://github.com/ekafyi) - Komponen antarmuka yang berguna untuk API Web Monetization pada React - React, Monetization
-- [Tetikus](https://github.com/Namchee/tetikus) oleh [Namchee](https://github.com/Namchee) - (Eksperimental) Sebuah komponen kursor sederhana yang dapat dikustomisasi untuk Vue 3 ✌️ - Vue, _Custom Cursor_
+- [Tetikus](https://github.com/Namchee/tetikus) oleh [Namchee](https://github.com/Namchee) - (Eksperimental) Sebuah komponen kursor sederhana yang dapat dikustomisasi untuk Vue 3 - Vue, _Custom Cursor_
 - [Vue Scheduler](https://github.com/burhanahmeed/vue-daily-schedule) oleh [Burhan](https://github.com/burhanahmeed) - Sebuah komponen penjadwalan harian yang mudah untuk VueJS / NuxtJS - Vue, Scheduler
 
 ### Bahasa Pemrograman
@@ -95,3 +95,4 @@ mohon untuk mengurutkannya secara alfabetis naik.
 - [React Lazy Viewport](https://github.com/adibfirman/react-lazy-viewport) oleh [Adib Firman](https://github.com/adibfirman) - Muat komponen React Anda berdasarkan _viewport_ peramban - React, _Intersection Observer_, _Viewport_
 - [tempe](https://github.com/masbagal/tempe) oleh [Dimitrij Agal](https://github.com/masbagal) - Utilitas super ringan untuk format penanggalan di Javascript - i18n
 - [Vue Currency Filter](https://github.com/mazipan/vue-currency-filter) oleh [Irfan Maulana](https://github.com/mazipan) - Filter mata uang Vue yang ringan berdasarkan accounting.js - Vue, Mata Uang, Akutansi
+- [telepon](https://github.com/Namchee/telepon) oleh [Namchee](https://github.com/Namchee) - Pustaka sederhana untuk melakukan validasi dan pemformatan sederhana pada _string_ nomor telepon Indonesia - TypeScript.

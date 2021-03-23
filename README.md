@@ -95,3 +95,4 @@ please sort it in ascending order.
 - [React Lazy Viewport](https://github.com/adibfirman/react-lazy-viewport) by [Adib Firman](https://github.com/adibfirman) - Load your react component based on viewport browser - React, Intersection Observer, Viewport
 - [tempe](https://github.com/masbagal/tempe) by [Dimitrij Agal](https://github.com/masbagal) - Featherlight helper for Javascript date formatting - i18n
 - [Vue Currency Filter](https://github.com/mazipan/vue-currency-filter) by [Irfan Maulana](https://github.com/mazipan) - Lightweight vue currency filter based on accounting.js - Vue, Currency, Accounting
+- [telepon](https://github.com/Namchee/telepon) oleh [Namchee](https://github.com/Namchee) - Validation and formatting library for Indonesian telephone number - TypeScript.
