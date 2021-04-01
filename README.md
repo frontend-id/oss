@@ -69,7 +69,8 @@ please sort it in ascending order.
 - [React Datepicker Component](https://github.com/adibfirman/react-datepicker) by [Adib Firman](https://github.com/adibfirman) - An awesome Datepicker for your React APP, built in with Framer Motion - React, Datepicker
 - [React Web Monetization UI](https://github.com/ekafyi/react-web-monetization-ui) by [Eka](https://github.com/ekafyi) - Handy UI components to use with the Web Monetization API in React - React, Monetization
 - [Tetikus](https://github.com/Namchee/tetikus) by [Namchee](https://github.com/Namchee) - (Experimental) A small custom cursor component for Vue 3 ✌️ - Vue, Custom Cursor
-- [Vue Scheduler](https://github.com/burhanahmeed/vue-daily-schedule) by [Burhan](https://github.com/burhanahmeed) - A straightforward daily scheduler component for VueJS / NuxtJS - Vue, Scheduler
+- [Vue-modal-2](https://github.com/initbase/vue-modal-2) by [Burhan](https://github.com/burhanahmeed) - A simple and lightweight Vue modal component without other css dependency.
+- [Vue Scheduler](https://github.com/initbase/vue-daily-schedule) by [Burhan](https://github.com/burhanahmeed) - A straightforward daily scheduler component for VueJS / NuxtJS - Vue, Scheduler
 
 ### Programming Language
 
