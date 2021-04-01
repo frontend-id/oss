@@ -69,7 +69,8 @@ mohon untuk mengurutkannya secara alfabetis naik.
 - [React Datepicker Component](https://github.com/adibfirman/react-datepicker) oleh [Adib Firman](https://github.com/adibfirman) - Sebuah _datepicker_ mengagumkan untuk aplikasi React Anda, dibangun dengan _Framer Motion_ - React, _Datepicker_
 - [React Web Monetization UI](https://github.com/ekafyi/react-web-monetization-ui) oleh [Eka](https://github.com/ekafyi) - Komponen antarmuka yang berguna untuk API Web Monetization pada React - React, Monetization
 - [Tetikus](https://github.com/Namchee/tetikus) oleh [Namchee](https://github.com/Namchee) - (Eksperimental) Sebuah komponen kursor sederhana yang dapat dikustomisasi untuk Vue 3 ✌️ - Vue, _Custom Cursor_
-- [Vue Scheduler](https://github.com/burhanahmeed/vue-daily-schedule) oleh [Burhan](https://github.com/burhanahmeed) - Sebuah komponen penjadwalan harian yang mudah untuk VueJS / NuxtJS - Vue, Scheduler
+- [Vue-modal-2](https://github.com/initbase/vue-modal-2) by [Burhan](https://github.com/burhanahmeed) - Komponen _modal_ sederhana dan ringan untuk Vue tanpa ketergantungan css lain.
+- [Vue Scheduler](https://github.com/initbase/vue-daily-schedule) oleh [Burhan](https://github.com/burhanahmeed) - Sebuah komponen penjadwalan harian yang mudah untuk VueJS / NuxtJS - Vue, Scheduler
 
 ### Bahasa Pemrograman
 
