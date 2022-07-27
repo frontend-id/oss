@@ -63,6 +63,7 @@ mohon untuk mengurutkannya secara alfabetis naik.
 - [resir014.xyz](https://github.com/resir014/resir014.xyz) oleh [Resi Respati](https://github.com/resir014) - React, Next.js
 - [sonnylab.com](https://github.com/sonnylazuardi/sonnylab.com) oleh [Sonny Lazuardi](https://github.com/sonnylazuardi) - React, Gatsby, Framer Motion
 - [zainfathoni.com](https://github.com/zainfathoni/www.zainfathoni.com) oleh [Zain Fathoni](https://github.com/zainfathoni) - React, Gatsby
+- [arisris.com](https://github.com/arisris/arisris.com) oleh [Aris Riswanto](https://github.com/arisris) - React, Next.js, Gist Blog, Guestbook, NextAuth
 
 ### Komponen Antarmuka
 
@@ -95,3 +96,4 @@ mohon untuk mengurutkannya secara alfabetis naik.
 - [React Lazy Viewport](https://github.com/adibfirman/react-lazy-viewport) oleh [Adib Firman](https://github.com/adibfirman) - Muat komponen React Anda berdasarkan _viewport_ peramban - React, _Intersection Observer_, _Viewport_
 - [tempe](https://github.com/masbagal/tempe) oleh [Dimitrij Agal](https://github.com/masbagal) - Utilitas super ringan untuk format penanggalan di Javascript - i18n
 - [Vue Currency Filter](https://github.com/mazipan/vue-currency-filter) oleh [Irfan Maulana](https://github.com/mazipan) - Filter mata uang Vue yang ringan berdasarkan accounting.js - Vue, Mata Uang, Akutansi
+- [Next.js Api Router](https://github.com/arisris/next-api-router) oleh [Aris Riswanto](https://github.com/arisris) - Router untuk api next.js, terinspirasi oleh [itty-router](https://github.com/kwhitley/itty-router) - Next.js, Api, Itty-Router
