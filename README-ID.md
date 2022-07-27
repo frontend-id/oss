@@ -96,4 +96,4 @@ mohon untuk mengurutkannya secara alfabetis naik.
 - [React Lazy Viewport](https://github.com/adibfirman/react-lazy-viewport) oleh [Adib Firman](https://github.com/adibfirman) - Muat komponen React Anda berdasarkan _viewport_ peramban - React, _Intersection Observer_, _Viewport_
 - [tempe](https://github.com/masbagal/tempe) oleh [Dimitrij Agal](https://github.com/masbagal) - Utilitas super ringan untuk format penanggalan di Javascript - i18n
 - [Vue Currency Filter](https://github.com/mazipan/vue-currency-filter) oleh [Irfan Maulana](https://github.com/mazipan) - Filter mata uang Vue yang ringan berdasarkan accounting.js - Vue, Mata Uang, Akutansi
-- [Next.js Api Router](https://gthub.com/arisris/next-api-router) oleh [Aris Riswanto](https://github.com/arisris) - Router untuk api next.js, terinspirasi oleh [itty-router](https://github.com/kwhitley/itty-router) - Next.js, Api, Itty-Router
+- [Next.js Api Router](https://github.com/arisris/next-api-router) oleh [Aris Riswanto](https://github.com/arisris) - Router untuk api next.js, terinspirasi oleh [itty-router](https://github.com/kwhitley/itty-router) - Next.js, Api, Itty-Router
